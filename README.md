@@ -18,10 +18,10 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ![imAGE](2.png)
 
 ## Program
+```
 Name: Gaushika RR
 Reg no: 212225040091
 
-```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): \n"))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  \n"))
 Robot_time=float(input("Enter the Additional time taken for the Robot (in secs) :  \n"))
